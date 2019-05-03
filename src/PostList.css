@@ -1,0 +1,9 @@
+.container {
+    width: 900px;
+    margin: 20px auto;
+}
+
+.container-title {
+    text-align: center;
+    font-weight: bolder;
+}
